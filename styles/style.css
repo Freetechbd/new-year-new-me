@@ -135,7 +135,13 @@ main {
 
 .skills {
   display: flex;
+  /* gap: 115px; */
   justify-content: space-between;
+  align-items: center;
+}
+
+.skill-details {
+  text-align: center;
 }
 
 .skill-details img {
